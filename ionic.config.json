@@ -1,0 +1,7 @@
+{
+  "name": "avance",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
